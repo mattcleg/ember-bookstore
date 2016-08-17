@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/tmp/broccoli_merge_trees-input_base_path-R8JFt9Yk.tmp/3/initializers/data-adapter.js

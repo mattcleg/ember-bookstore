@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/node_modules/ember-cli/lib/broccoli/testem.js

@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/tmp/funnel-input_base_path-qvbZHS3k.tmp/0/initializer-factory.js

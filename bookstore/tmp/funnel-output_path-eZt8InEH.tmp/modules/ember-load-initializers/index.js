@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/tmp/funnel-input_base_path-UaZE0g9V.tmp/0/index.js

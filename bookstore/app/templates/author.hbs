@@ -1,0 +1,10 @@
+<h3>{{model.name}}</h3>
+
+<strong>Biography: </strong> Nam facilisi, nam donec quisque arcu. Ullamcorper sollicitudin et sollicitudin diam sociosqu suspendisse vel fringilla ullamcorper ridiculus. Nibh mollis leo phasellus. Accumsan mauris mattis habitasse varius faucibus tempor ante odio sollicitudin maecenas. Rhoncus, lobortis amet elit habitasse diam porttitor erat donec. Vel nunc quisque nibh eleifend bibendum. Fames tortor odio torquent fusce ipsum id tempor molestie facilisi. Vivamus netus sociosqu lacus ornare dictum magna gravida, augue in. Lectus enim mollis aenean curae;. Mus justo rutrum massa pulvinar dapibus non habitant eros sodales sem. Iaculis tortor pharetra amet sit, senectus.
+
+<h4>Published Titles: </h4>
+<ul>
+    {{#each model.books as |book|}}
+        {{book-cover book=book blurBackground=(route-action "<blurBackground></blurBackground>")}}
+    {{/each}}
+</ul>

@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/tmp/broccoli_merge_trees-input_base_path-EcmOk9ZE.tmp/0/modules/ember-cli-app-version/initializer-factory.js

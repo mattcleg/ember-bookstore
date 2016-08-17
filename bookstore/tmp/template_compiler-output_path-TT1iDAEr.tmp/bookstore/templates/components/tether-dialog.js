@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/node_modules/ember-modal-dialog/app/templates/components/tether-dialog.js

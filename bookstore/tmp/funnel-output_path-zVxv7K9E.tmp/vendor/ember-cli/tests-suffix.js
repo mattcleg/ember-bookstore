@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/tmp/funnel-input_base_path-er9Pl7Bf.tmp/0//tests-suffix.js

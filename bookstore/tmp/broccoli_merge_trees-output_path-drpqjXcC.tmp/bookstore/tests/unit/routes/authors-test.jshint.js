@@ -1,0 +1,1 @@
+/Users/mattcleghorn/Sites/Ember/bookstore/tmp/broccoli_merge_trees-input_base_path-6Hz5lVQf.tmp/2/bookstore/tests/unit/routes/authors-test.jshint.js
